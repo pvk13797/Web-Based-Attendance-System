@@ -1,0 +1,30 @@
+SMAP
+student_005fupdate_jsp.java
+JSP
+*S JSP
+*F
++ 0 student_update.jsp
+student_update.jsp
++ 1 header.jsp
+header.jsp
++ 2 db.jsp
+db.jsp
+*L
+5,5:61
+5#1,49:65
+9#0:113,2
+5#2,11:115
+16,3:13
+18,3:126
+21,3:130
+23,4:133
+10#0,15:136
+25,4:17
+28,3:151
+31,6:155
+36,134:161
+170,4:296
+173,6:300
+179:306,3
+180,3:309
+*E
